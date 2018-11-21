@@ -1,0 +1,4 @@
+pojemnosc dysku: 128 GB + 1000 GB
+ilosc pamieci ram: 8 GB
+rodzaj i predkosc procesora: Intel Core i5-8250U 1.6GHz-3.4GHz
+system 64-bitowy
